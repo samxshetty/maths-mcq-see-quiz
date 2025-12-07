@@ -933,7 +933,7 @@ class UHVQuizApp {
     id: 155,
     question: "Right understanding and relationship leads to",
     options: ["Individual Happiness", "Mutual prosperity", "Both", "None of these"],
-    correct: 2
+    correct: 1
   },
   {
     id: 156,
