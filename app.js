@@ -277,7 +277,7 @@ class MATHSQuizApp {
     id: 46,
     question: "Given f_xx = x², f_xy = 8, f_yy = y², then the nature of the stationary point at (√2, √2) is:",
     options: ["Maximum", "Minimum", "Saddle point", "No maxima & minima"],
-    correct: 2
+    correct: 1
   },
   {
     id: 47,
@@ -483,7 +483,7 @@ class MATHSQuizApp {
     id: 80,
     question: "The partial differential equation of the expression z = xeᵃ - by, where a and b are arbitrary constants, is:",
     options: ["z = px - qy", "z = px + qy", "z = p + q", "px + qy = 0"],
-    correct: 0
+    correct: 1
   },
   {
     id: 81,
