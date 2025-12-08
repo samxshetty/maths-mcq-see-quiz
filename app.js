@@ -519,7 +519,7 @@ class MATHSQuizApp {
     id: 86,
     question: "The partial differential equation of the expression z = ay + bx, where a and b are arbitrary constants, is:",
     options: ["z = px + qy", "z = qx + py", "z = p + q", "z = px - qy"],
-    correct: 1
+    correct: 0
   },
   {
     id: 87,
