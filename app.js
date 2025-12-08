@@ -381,7 +381,7 @@ class MATHSQuizApp {
     id: 63,
     question: "The particular integral of (D² + 3D - 4)y = 12e²ˣ is:",
     options: ["e²ˣ", "2e²ˣ", "3e²ˣ", "e²ˣ/2"],
-    correct: 0
+    correct: 1
   },
   {
     id: 64,
