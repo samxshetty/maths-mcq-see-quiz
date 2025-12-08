@@ -89,7 +89,7 @@ class MATHSQuizApp {
     id: 15,
     question: "The angle between the radius vector and tangent for the vector r = aθ is:",
     options: ["tan⁻¹(1/θ)", "tan⁻¹(θ)", "r", "a/θ"],
-    correct: 0
+    correct: 1
   },
   {
     id: 16,
