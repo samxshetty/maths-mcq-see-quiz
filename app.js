@@ -259,7 +259,7 @@ class MATHSQuizApp {
     id: 43,
     question: "If f(x, y) = x²y + x where x = t and y = t² then the value of df/dt when t = 1 is:",
     options: ["2", "4", "1", "5"],
-    correct: 1
+    correct: 3
   },
   {
     id: 44,
