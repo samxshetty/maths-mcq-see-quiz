@@ -157,7 +157,7 @@ class MATHSQuizApp {
     id: 26,
     question: "If f(x, y, z) = cos(xy) + sin(y) + z, then fₓ(1/2, π/2, 7)",
     options: ["-π/(2√2)", "π/(4√3)", "-π/4", "π/√2"],
-    correct: 2
+    correct: 0
   },
   {
     id: 27,
