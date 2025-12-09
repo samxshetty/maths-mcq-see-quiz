@@ -17,7 +17,7 @@ class MATHSQuizApp {
     id: 3,
     question: "The angle between the radius vector r = a sin θ and tangent to the curve at any point is φ =",
     options: ["θ/2", "θ", "0", "π/2"],
-    correct: 3
+    correct: 1
   },
   {
     id: 4,
