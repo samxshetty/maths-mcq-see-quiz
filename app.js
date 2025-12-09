@@ -145,7 +145,7 @@ class MATHSQuizApp {
     id: 24,
     question: "If u = yˣ then ∂u/∂x is:",
     options: ["yˣ", "yˣ log y", "yˣ log x", "xyˣ⁻¹"],
-    correct: 3
+    correct: 1
   },
   {
     id: 25,
@@ -169,7 +169,7 @@ class MATHSQuizApp {
     id: 28,
     question: "If u = yˣ then ∂u/∂y is:",
     options: ["yˣ", "yˣ log log y", "yˣ log log x", "xyˣ⁻¹"],
-    correct: 0
+    correct: 3
   },
   {
     id: 29,
