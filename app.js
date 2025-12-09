@@ -65,7 +65,7 @@ class MATHSQuizApp {
     id: 11,
     question: "If φ be the angle between the tangent and radius vector at any point on the curve, r = f(θ) then cot φ is equals to:",
     options: ["r(dr/dθ)", "(1/r)(dr/dθ)", "r(dθ/dr)", "(1/r)(dθ/dr)"],
-    correct: 3
+    correct: 1
   },
   {
     id: 12,
@@ -283,7 +283,7 @@ class MATHSQuizApp {
     id: 47,
     question: "If f(x, y) = x + y, where x = sin t; y = cos t then the value of df/dt at t = π/2",
     options: ["2", "-2", "1", "0"],
-    correct: 3
+    correct: 2
   },
 
   // UNIT-III: Ordinary Differential Equations
