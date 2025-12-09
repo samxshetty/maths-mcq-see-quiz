@@ -507,7 +507,7 @@ class MATHSQuizApp {
     id: 84,
     question: "The partial differential equation of the expression 2z = ax² + by, where a and b are arbitrary constants, is:",
     options: ["2z = px + 2qy", "z = px + qy", "z = 2px + qy", "z = px - qy"],
-    correct: 2
+    correct: 0
   },
   {
     id: 85,
