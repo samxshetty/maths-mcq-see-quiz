@@ -459,7 +459,7 @@ class MATHSQuizApp {
     id: 76,
     question: "The partial differential equation of the expression z = aeˣ - beʸ, where a and b are arbitrary constants, is:",
     options: ["z = p + q", "z = p - q", "p + q = 0", "p - q = 0"],
-    correct: 3
+    correct: 0
   },
   {
     id: 77,
